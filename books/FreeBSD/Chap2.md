@@ -1,0 +1,15 @@
+## Practises
+- 2.1 How does a user process request a service from the kernel?
+- 2.2 How are data transferred between a process and the kernel? What alternatives are available?
+- 2.3 How does a process access an I/O stream? List three types of I/O streams.
+- 2.4 What are the four steps in the lifecycle of a process?
+- 2.5 Why are process groups provided in FreeBSD?
+- 2.6 Describe four machine-dependent functions of the kernel?
+- 2.7 Describe the difference between an absolute and a relative pathname.
+- 2.8 Give three reasons why the mkdir system call was added to 4.2BSD.
+- 2.9 Define scatter-gather I/O. Why is it useful?
+- 2.10 List five functions provided by a terminal driver.
+- 2.11 What is the difference between a pipe and a socket?
+- 2.12 Describe how to create a group of processes in a pipeline.
+- \*2.13 List the three system calls that were required to create a new directory foo in the current directory before the addition of the mkdir system call.
+- \*2.14 Explain the difference between interprocess communication and net-working.
